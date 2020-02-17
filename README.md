@@ -1,4 +1,4 @@
-# Tweet-Sentiment-Anapyzer
+# Tweet-Sentiment-Analyzer
 An iOS Application to analyze sentiment of tweets from market analyts.
 Twitter Data Sentiment Analyzer iOS App "TweetSentiment" was created using XCode
 10 and Swift 4.0 programming language on iOS 12.0, and the state-of-the-art of Core ML2

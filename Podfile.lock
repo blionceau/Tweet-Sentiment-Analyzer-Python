@@ -1,0 +1,26 @@
+PODS:
+  - Charts (3.2.2):
+    - Charts/Core (= 3.2.2)
+  - Charts/Core (3.2.2)
+  - RappleProgressHUD (2.4.1)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Charts
+  - RappleProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Charts
+    - RappleProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Charts: f69cf0518b6d1d62608ca504248f1bbe0b6ae77e
+  RappleProgressHUD: 1d97178abc04ea9e89e4df74227064ded389ce24
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: d05d83a6e626039333a3a7aff040419c9b04675d
+
+COCOAPODS: 1.6.1
